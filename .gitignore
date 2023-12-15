@@ -1,5 +1,5 @@
-bhservice.spec
 key.pri
 key.pub
+bhservice.spec
 process_monitor_log.csv
-C:\Users\Matheus\Documents\Python - Cibersegurança\Book - Black Hat Python\cap 9 - Fun with Exfiltration\private_credentials.py
+cap 9 - Fun with Exfiltration\private_credentials.py
